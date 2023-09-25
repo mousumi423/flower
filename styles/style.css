@@ -1,0 +1,53 @@
+footer{display: block;padding: 20px ;justify-content: center;text-align: center;margin-top: 50px;
+background-color: black;color: white; 
+}
+#rr{color: #E55473;}
+
+
+
+
+
+
+
+/* header part........ + hot deal.... */
+
+.flower{display: flex; background: rgba(229, 84, 115, 0.10);width: 1920px;
+    height: 850px;
+    gap: 15%;align-items: center;padding:0 0 0 50px;margin:2px 2px 0px ;
+
+}
+.fl{padding:0 0 0 50px;margin:2px 2px 0px ;}
+
+.btn{border: 8px;border-radius: 8px;
+    background: #E55473;  padding: 20px;text-align: center;color: white;
+}
+
+/* featured........ */
+
+.featured{text-align: center;padding: 50px;}
+.color{color: rgba(39, 39, 39, 0.60);}
+
+/* all flowers */
+.bl{background-color: pink;border-radius: 200px 200px 0 0px;}
+
+.cl{background-color: skyblue;border-radius: 200px 200px 0 0px;}
+
+.dl{background-color: silver;border-radius: 200px 200px 0 0px;}
+.all-flowers{display: flex;padding: 50px;gap: 10px; align-items: center;
+    
+    justify-content: center;}
+    /* box */
+    .box{align-items: center;display: flex;padding: 40px;border: 50px;margin: 0 60px 60px 60px;
+        gap: 60px;justify-content: center;background-color: darkgray;}
+
+    .pink{border-bottom: 2px;border-color: black;}
+/* #padding{padding-bottom: 20px; margin-bottom: 20px;border-bottom: 4opx;} */
+
+/* latest */
+
+.latest{background-image: url(../Rectangle\ 9.png);text-align: center;padding: 50px;align-items: center;}
+
+/* .in{height: 2px;width: 20px;} */
+
+
+ 
